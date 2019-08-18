@@ -1,0 +1,10 @@
+{
+  "name": "swgoh-bot",
+  "version": "1.0.0",
+  "description": "Max's SWGOH bot",
+  "main": "bot.js",
+  "author": "sudonatalie",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
