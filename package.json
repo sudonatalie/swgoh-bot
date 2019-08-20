@@ -5,6 +5,7 @@
   "main": "bot.js",
   "author": "sudonatalie",
   "dependencies": {
+    "api-swgoh-help": "^3.3.0",
     "discord.js": "^11.5.1"
   }
 }
